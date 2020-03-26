@@ -866,3 +866,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.26-17.16.35:399][  2]LogAssetRegistry: Asset discovery search completed in 41.6845 seconds
 [2020.03.26-17.16.35:402][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2020.03.26-17.16.35:402][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000131 seconds (updated 0 objects)
+[2020.03.26-17.22.45:733][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.26-17.22.46:567][200]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.26-17.22.54:785][959]LogSlate: Window 'Source Control Login' being destroyed
+[2020.03.26-17.24.33:708][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.26-17.24.50:919][440]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.03.26-17.24.50:925][440]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.03.26-17.24.57:033][112]LogSlate: Took 0.001074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.26-17.24.57:142][112]LogSlate: Took 0.005192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.26-17.25.20:435][867]LogSlate: Window 'Add C++ Class' being destroyed
